@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BattleShip.dir/main.cpp.o CMakeFiles/BattleShip.dir/player.cpp.o CMakeFiles/BattleShip.dir/connectN.cpp.o CMakeFiles/BattleShip.dir/board.cpp.o CMakeFiles/BattleShip.dir/move.cpp.o  -o BattleShip 

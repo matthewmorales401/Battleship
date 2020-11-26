@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matthew/Desktop/battleship mess/board.cpp
+board.h
+/home/matthew/Desktop/battleship mess/board.h
+
+/home/matthew/Desktop/battleship mess/board.h
+vector
+-
+string
+-
+iostream
+-
+player.h
+/home/matthew/Desktop/battleship mess/player.h
+
+/home/matthew/Desktop/battleship mess/connectN.cpp
+connectN.h
+/home/matthew/Desktop/battleship mess/connectN.h
+
+/home/matthew/Desktop/battleship mess/connectN.h
+sstream
+-
+map
+-
+move.h
+/home/matthew/Desktop/battleship mess/move.h
+
+/home/matthew/Desktop/battleship mess/main.cpp
+fstream
+-
+iostream
+-
+connectN.h
+/home/matthew/Desktop/battleship mess/connectN.h
+
+/home/matthew/Desktop/battleship mess/move.cpp
+move.h
+/home/matthew/Desktop/battleship mess/move.h
+
+/home/matthew/Desktop/battleship mess/move.h
+player.h
+/home/matthew/Desktop/battleship mess/player.h
+board.h
+/home/matthew/Desktop/battleship mess/board.h
+sstream
+-
+
+/home/matthew/Desktop/battleship mess/player.cpp
+player.h
+/home/matthew/Desktop/battleship mess/player.h
+
+/home/matthew/Desktop/battleship mess/player.h
+iostream
+-
+string
+-
+vector
+-
+cstring
+-
+map
+-
+board.h
+/home/matthew/Desktop/battleship mess/board.h
+
